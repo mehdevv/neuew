@@ -560,7 +560,8 @@ export function ChatbotSheet({ open, onOpenChange }: ChatbotSheetProps) {
       >
         <div className="relative flex h-full flex-col bg-white dark:bg-gray-900">
           {/* Header */}
-          <SheetHeader className="border-b border-slate-200 px-6 py-3 dark:border-slate-800">
+          <SheetHeader className="border-b border-slate-200 px-6 py-3 pt-[max(0.75rem,env(safe-area-inset-top))] dark:border-slate-800">
+
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <div className="relative">
