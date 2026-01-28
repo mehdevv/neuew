@@ -1,0 +1,1 @@
+export const ABONNEMENTS = ["BRONZE", "SILVER", "GOLD", "PLATINUM"];

@@ -1,0 +1,438 @@
+{
+  "landing": {
+    "hero": {
+      "title": "Discover Algeria like never before",
+      "subtitle": "360° virtual tours, tailor-made trips, and exclusive local experiences, all in one place",
+      "exploreButton": "Start exploring",
+      "agencyButton": "Find offers for you"
+    },
+    "explorer360": {
+      "title": "Explore, discover, and experience Algeria in 360°",
+      "subtitle": "Discover destinations from every angle",
+      "searchPlaceholder": "Wilaya or Place",
+      "browseMore": "Browse more"
+    },
+    "organizedTrips": {
+      "title": "Looking for new destinations for your vacation?",
+      "subtitle": "Unforgettable trips at your fingertips with a catalog of tourist products and services",
+      "findOffersButton": "Find offers just for you",
+      "recentPosts": "Recent announcements",
+      "findMorePosts": "Find more listings",
+      "forAgenciesTitle": "Boost your visibility and sales in Algeria's tourism sector",
+      "forAgenciesSubtitle1": "Discover AVT Store",
+      "forAgenciesSubtitle2": "Your Digital Partner in Algerian Tourism! AVT Store is an innovative platform specially designed for tourism professionals in Algeria, including travel agencies, hotels, theme parks, and more.",
+      "agencyBenefits": [
+        "Boost your sales: publish your trips and stays",
+        "Connect with new customers",
+        "Access a rapidly growing market"
+      ],
+      "registerButton": "Register as a partner"
+    },
+    "mapSection": {
+      "title": "Discover hidden gems across Algeria",
+      "subtitle": "Check out our interactive map to find fascinating destinations, plan your dream trip, and uncover authentic local experiences",
+      "goToMapButton": "Go to the map"
+    },
+    "ctaSection": {
+      "title": "Ready to Start Your Adventure?",
+      "subtitle": "Whether you're planning your next getaway or offering unforgettable experiences, we're here to connect dreamers with explorers.",
+      "button": "Find a destination"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "We are here to help"
+    },
+    "newsletter": {
+      "title": "Subscribe to our newsletter",
+      "subtitle": "Stay informed about the latest offers, destinations, and travel tips.",
+      "button": "Subscribe"
+    }
+  },
+  "Toast": {
+    "updated": "Successfully updated!",
+    "unexpected": "An unexpected error occurred!",
+    "success": "Operation completed successfully!",
+    "too_large": "File {file} exceeds the 5MB limit."
+  },
+  "Agency": {
+    "home": "Home",
+    "info": "Info & Contact",
+    "subscribe": "Subscribe"
+  },
+  "Footer": {
+    "address": "CYBERPARC, Sidi Abdellah, Rahmania, 16121, Algiers, Algeria",
+    "contact_us": "Contact Us",
+    "store": "Order your AVT Store",
+    "ad": "Advertising on Algeria Virtual Travel",
+    "legal_notice": "Legal Notices & General Terms of Use",
+    "warning": "By using this website, you agree to the terms and conditions and our privacy policy",
+    "follow_us": "Follow us on social media",
+    "All_rights_reserved": "Algeria Virtual Travel. All rights reserved."
+  },
+  "TravelAnn": {
+    "no_match": "No travel matches your search criteria.",
+    "search": "Search",
+    "searching": "Searching...",
+    "destination": "Destination",
+    "category": "Category",
+    "price_range": "Price range",
+    "date_range": "Date range",
+    "from": "From",
+    "to": "To",
+    "cancel": "Cancel",
+    "select_category": "Select a category",
+    "select_subcategory": "Select a subcategory",
+    "filter": "Filter",
+    "advanced_filter": "Advanced filter",
+    "no_results_found": "No results found"
+  },
+  "StartPage": {
+    "Begin": "Begin"
+  },
+  "NavBar": {
+    "Map": "Map",
+    "Travel": "Travel",
+    "Profile": "Profile",
+    "Language": "Language",
+    "Blog": "Blog",
+    "Research": "Search",
+    "Saved_items": "Saved items",
+    "About_us": "About Us",
+    "Contact_us": "Contact Us",
+    "Legal_Notice": "Legal Notices & General Terms of Use",
+    "All_rights_reserved": "Copyright ©  ALGERIA VIRTUAL TRAVEL 2025. All right reserved."
+  },
+  "TravelDetails": {
+    "travel_details": "Travel Details",
+    "departure": "Departure",
+    "destination": "Destination",
+    "date_publication": "Publication date",
+    "duration": "Period",
+    "accommodation": "Accommodation",
+    "description": "Description",
+    "contact_information": "Contact Information",
+    "price": "{price} DZD",
+    "related_travels": "Related Travels"
+  },
+  "SearchPage": {
+    "Card": {
+      "Art & Culture": "Art & Culture",
+      "Hotel": "Hotel",
+      "Parks & Loisirs": "Hobbies & Park",
+      "Monument": "Monument",
+      "Museum": "Museum",
+      "Directories": "Directories",
+      "Restaurant": "Restaurant & café",
+      "Service": "Services",
+      "Mosque": "Mosque",
+      "Shopping": "Shopping"
+    },
+    "Research": "Search",
+    "H1": "Choose your destination",
+    "P": "Search hundreds of places across Algeria and find your ideal destination.",
+    "Wilaya": "Wilaya"
+  },
+  "Searchcategorie": {
+    "The_Most_Visted": "The most visited",
+    "Recent_Added": "Recent Added",
+    "General": "General"
+  },
+  "HomePage": {
+    "Title": "The 1<sup>st</sup> virtual tourism platform in Algeria",
+    "DiscoverMore": "Discover More",
+    "SeeMore": "See more"
+  },
+  "Contact_us_page": {
+    "Title": "Contact Us",
+    "Last_Name": "Last name",
+    "First_Name": "First name",
+    "Email": "Email",
+    "Phone_Number": "Phone number",
+    "Your_Message": "Your message",
+    "Send": "Send"
+  },
+  "General": {
+    "ReadMore": "Read More...",
+    "ReadLess": "Read Less...",
+    "NoLocationFound": "No location was found"
+  },
+  "MapPage": {
+    "Destination": "Destination",
+    "Perimeter": "Perimeter",
+    "SearchWilayas": "Search for wilayas"
+  },
+  "WilayaPage": {
+    "Destination": "Destination",
+    "MoreInfo": "Informations",
+    "Discover": "Discover"
+  },
+  "CarousselPage": {
+    "Visit_360": "Visit in 360°",
+    "About": "About",
+    "Gallery": "Gallery",
+    "OpenMap": "Open in maps"
+  },
+  "AboutUsPage": {
+    "title": "ABOUT US",
+    "intro": "Welcome to Algeria Virtual Travel, your digital platform dedicated to promoting tourism in Algeria. SPAS Algeria Virtual Travel is an innovative startup, recognized as an innovative project and labeled as a startup by the Minister of Knowledge Economy. We offer various services aimed at stakeholders in the tourism sector. Our mission is to connect travelers with tourism service providers, using advanced digital tools to facilitate every step of your experience.",
+    "visionTitle": "Our Vision",
+    "vision": "We firmly believe that our country, with its breathtaking landscapes, rich culture, and historical heritage, deserves to be discovered by the world. Algeria is a treasure of diversity, ranging from the vast dunes of the Sahara to the majestic mountains of Kabylie, passing through historic cities like Algiers, Tlemcen, and Oran. Each region offers a unique experience, rich in traditions and history. This is why we are committed to using advanced digitization tools as part of the digital transformation to make this beauty accessible to all. By adopting the concept of smart tourism, we aim to create a rewarding and interactive experience for every traveler, thus facilitating the discovery of the wonders of our country.",
+    "servicesTitle": "Our Services",
+    "services": [
+      "24/7 Access to Information: Our platform provides reliable and up-to-date tourist information, allowing travelers to plan their adventures at any time. Whether you are looking for cultural activities, natural sites, or local events, we have everything you need.",
+      "360° Virtual Tours: A catalog of guided 360° virtual tours that showcases the beauty and charm of tourist sites across the 58 wilayas.",
+      "Highlighting Heritage: We place a special emphasis on the richness of Algeria's material and immaterial heritage. Discover the arts, music, gastronomy, and traditions that make our nation proud.",
+      "Personalized Planning: With our intuitive interface, users can organize their trips according to their personal preferences, incorporating tailored recommendations.",
+      "Promotion Space for Providers: Our marketplace allows travel agencies and tourism service providers to promote their offerings. This ensures optimal visibility for those who wish to share their passion for Algeria."
+    ],
+    "whyTitle": "Why Choose Algeria Virtual Travel?",
+    "why": "We are passionate about tourism and believe in the importance of digitization to enhance our users' experience. By integrating elements of digital marketing and innovative strategies, we ensure that the best offers and experiences are easily accessible.",
+    "closing": "Explore Algeria like never before with Algeria Virtual Travel. Join us on this adventure and discover all that our beautiful country has to offer, from breathtaking landscapes to invaluable cultural treasures."
+  },
+  "AuthentificationPage": {
+    "Email": "Email",
+    "Password": "Password",
+    "Login": "Login",
+    "Or": "Or",
+    "ContinueWFacebook": "Continue with Facebook",
+    "ContinueWGoogle": "Continue with Google",
+    "StayConnected": "Stay connected",
+    "CreateAccount": "Create an account",
+    "UdontHaveAccount": "You dont have an account?",
+    "Name": "Name",
+    "LastName": "Last name",
+    "Tel": "Phone number",
+    "ConfirmPassword": "confirm password",
+    "Signup": "Sign up",
+    "UHaveAccount": "You have an account?",
+    "Send": "Send",
+    "ResetPasswordTitle": "Reset password",
+    "ResetPasswordP": "We will send you an email to reset your password, please check your mailbox",
+    "ForgetPassword": "I forgot my password",
+    "EmailSentTitle": "Email sent !",
+    "EmailSentP": "we have sent you an email, Please check your mailbox"
+  },
+  "TravelCard": {
+    "departure": "Departure",
+    "destination": "Destination",
+    "date": "Date",
+    "accommodation": "Accommodation",
+    "price": "{price} DZD",
+    "details": "Details"
+  },
+  "PopUpMessages": {},
+  "ChooseLanguage": {
+    "Title": "Choose your language",
+    "Confirm": "Confirm"
+  },
+  "LegalNotice": {
+    "title": "Legal Notice and General Terms of Use",
+    "legalNotices": {
+      "title": "Legal Notices",
+      "sections": {
+        "presentation": {
+          "title": "Site presentation",
+          "items": {
+            "name": "Name of the site: ALGERIA VIRTUAL TRAVEL",
+            "url": "Site address: https://www.algeriavirtualtravel.com/",
+            "publisher": "Publisher: SPAS ALGERIA VIRTUAL TRAVEL",
+            "address": "Address: Cyberparc de Sidi Abdellah el Rahmania, Alger, Algeria",
+            "email": "Email: algeriavirtualtravel@gmail.com / contact-avt@algeriavirtualtravel.com",
+            "host": "Host: ICOSNET"
+          }
+        },
+        "content": "All content present on the site (texts, images, videos, logos, etc.) is the property of ALGERIA VIRTUAL TRAVEL or third parties having authorized its use. Any reproduction, representation, modification or publication, total or partial, of this content is prohibited without the express authorization of ALGERIA VIRTUAL TRAVEL.",
+        "personalData": "In accordance with the law on the protection of personal data (Law 18-07 of August 10, 2023), we undertake to respect the confidentiality of the information you provide us. The data collected is for internal use and will not be transmitted to third parties without your consent.",
+        "cookies": "The site may use cookies to improve the user experience. You can disable them in your browser, but this may affect access to some features.",
+        "liability": "The publisher is not responsible for errors or omissions in the information. We reserve the right to modify the content of the site at any time. Users should verify accuracy before relying on it.",
+        "externalLinks": "The site may contain links to other sites. We are not responsible for their content.",
+        "law": "These terms are governed by Algerian law. Any dispute will be submitted to Algerian courts.",
+        "contact": "For questions regarding this legal notice: algeriavirtualtravel@gmail.com / contact-avt@algeriavirtualtravel.com"
+      }
+    },
+    "termsOfUse": {
+      "title": "General Conditions of Use",
+      "sections": {
+        "platform": "ALGERIA VIRTUAL TRAVEL is a digital service for virtual tourism in Algeria, available on the website and mobile app. It offers 360° guided tours, an events calendar, and a marketplace.",
+        "acceptance": "By accessing the platform, you agree to these terms. If you do not accept, do not use the platform.",
+        "services": {
+          "title": "Services",
+          "items": [
+            "Virtual Visits: Free 360° guided tours across all 58 wilayas of Algeria.",
+            "Digital Agenda: Upcoming cultural and tourist events.",
+            "Marketplace: Tourism-related ads and offers."
+          ]
+        },
+        "commitments": {
+          "title": "User Commitments",
+          "items": [
+            "Use the platform according to applicable laws.",
+            "Do not disrupt normal operation.",
+            "Do not share illegal, harmful, or offensive content."
+          ]
+        },
+        "content": "All platform content is copyright protected. Unauthorized reproduction/use is prohibited.",
+        "personalData": "Personal data management complies with laws. See our Privacy Policy.",
+        "liability": "We are not responsible for damages from platform use. Information is for reference only.",
+        "externalLinks": "We are not responsible for external sites linked from the platform.",
+        "modifications": "We may modify these terms at any time. Users will be notified on the platform.",
+        "law": "These terms are governed by Algerian law. Disputes go to Algerian courts.",
+        "contact": "For questions: algeriavirtualtravel@gmail.com / contact-avt@algeriavirtualtravel.com"
+      }
+    }
+  },
+  "Introcon": {
+    "title": "Discover AVT Store: Your Digital Partner in Algerian Tourism!",
+    "description": "AVT Store is an innovative platform designed especially for tourism professionals in Algeria, including travel agencies, hotel complexes, amusement parks, and many others.",
+    "why_choose": {
+      "title": "Why Choose AVT Store?",
+      "visibility": {
+        "title": "Maximum Visibility",
+        "description": "Your catalog of tourism products and services enjoys optimal exposure on a platform visited daily by passionate travelers from Algeria's 58 wilayas."
+      },
+      "boost_sales": {
+        "title": "Boost Your Sales",
+        "description": "Many industry players have already seen an increase in their sales thanks to our intuitive interface, making it easy to publish and manage their offers."
+      }
+    },
+    "subscription_benefits": {
+      "title": "Benefits of Our Subscription",
+      "market_access": {
+        "title": "Access to a Growing Market",
+        "description": "Take advantage of a growing audience of potential customers looking for unique tourism experiences in Algeria."
+      },
+      "ready_solution": {
+        "title": "Ready-to-Use Solution",
+        "description": "Create and manage your online store effortlessly, in one click."
+      },
+      "network_success": {
+        "title": "Join a Successful Network",
+        "description": "Become part of a community of tourism professionals who have already succeeded with AVT Store."
+      }
+    },
+    "cta": "CLICK HERE TO VIEW PRICING",
+    "footer": "Don't miss this opportunity to boost your business! AVT Store: The key to increasing your visibility and sales in the Algerian tourism sector. Subscribe today!"
+  },
+  "Advertising": {
+    "title": "Advertising Services on Algeria Virtual Travel",
+    "intro": "We offer a wide range of advertising solutions to promote your business on Algeria Virtual Travel. Discover our varied options that adapt to your needs:",
+    "sections": {
+      "branding": {
+        "title": "Branding and Impactful Formats",
+        "items": {
+          "banners": "Banner Creation: Captivating visual formats to strengthen your brand image."
+        }
+      },
+      "videos": {
+        "title": "Videos",
+        "items": {
+          "inStream": "In-Stream and Out-Stream: Distribution of engaging videos to capture your audience's attention."
+        }
+      },
+      "brandContent": {
+        "title": "Brand Content",
+        "items": {
+          "native": "Native Advertising: Seamless integration into content for a fluid user experience.",
+          "dedicatedSites": "Dedicated Sites: Creation of specific pages for your campaigns."
+        }
+      },
+      "multiScreen": {
+        "title": "Multi-Screen Advertising",
+        "items": {
+          "customTargeting": "Custom Targeting: Adaptation of your advertising for desktops, smartphones, tablets.",
+          "predictive": "Predictive Targeting and DAR Packs: Audience optimization to maximize impact."
+        }
+      },
+      "contextual": {
+        "title": "Contextual Advertising",
+        "items": {
+          "events": "Sporting and Cultural Events: Advertising linked to events to reach your audience at the right time.",
+          "social": "Social Networks: Instant articles for increased visibility."
+        }
+      },
+      "specialOps": {
+        "title": "Special Operations",
+        "items": {
+          "customCampaigns": "Tailor-Made Campaigns: Creation of personalized operations based on your objectives."
+        }
+      },
+      "spots": {
+        "title": "Creation of Commercial Spots",
+        "desc": "Algeria Virtual Travel also offers you the possibility of producing your own commercial spots, with support in the design and animations that you wish to use on our platform."
+      }
+    }
+  },
+  "ChatbotLegal": {
+    "title": "Chatbot Legal Terms & Conditions",
+    "description": "Please read these terms carefully before using our AI travel assistant.",
+    "sections": {
+      "acceptance": {
+        "title": "1. Acceptance of Terms",
+        "content": "By using the Algeria Virtual Travel chatbot (\"AVT Guide\"), you agree to be bound by these terms and conditions. If you do not agree to these terms, please do not use the chatbot service."
+      },
+      "service": {
+        "title": "2. Service Description",
+        "content": "AVT Guide is an AI-powered virtual travel assistant designed to help users explore travel opportunities in Algeria and internationally. The chatbot provides information, suggestions, and assistance with travel planning."
+      },
+      "accuracy": {
+        "title": "3. Information Accuracy",
+        "content": "While we strive to provide accurate and up-to-date information, the chatbot's responses are generated by artificial intelligence and may contain errors or outdated information. Users should verify all important travel information, including prices, dates, and availability, before making any bookings or travel decisions."
+      },
+      "guarantee": {
+        "title": "4. No Guarantee of Service",
+        "content": "We do not guarantee that the chatbot will be available at all times or that it will be free from errors. The service is provided \"as is\" without any warranties, express or implied."
+      },
+      "responsibilities": {
+        "title": "5. User Responsibilities",
+        "content": "Users are responsible for:",
+        "items": [
+          "Providing accurate information when interacting with the chatbot",
+          "Verifying all travel information before making bookings",
+          "Complying with all applicable laws and regulations",
+          "Using the service in a respectful and lawful manner"
+        ]
+      },
+      "privacy": {
+        "title": "6. Privacy and Data",
+        "content": "Your conversations with the chatbot may be stored and analyzed to improve our services. We are committed to protecting your privacy in accordance with our Privacy Policy. Please do not share sensitive personal information such as credit card numbers or passwords with the chatbot."
+      },
+      "liability": {
+        "title": "7. Limitation of Liability",
+        "content": "Algeria Virtual Travel and its affiliates shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of or inability to use the chatbot service, including but not limited to damages for loss of profits, data, or other intangible losses."
+      },
+      "thirdParty": {
+        "title": "8. Third-Party Services",
+        "content": "The chatbot may provide links or references to third-party services, websites, or travel providers. We are not responsible for the content, accuracy, or practices of these third parties."
+      },
+      "modifications": {
+        "title": "9. Modifications to Terms",
+        "content": "We reserve the right to modify these terms at any time. Continued use of the chatbot after changes constitutes acceptance of the modified terms."
+      },
+      "contact": {
+        "title": "10. Contact Information",
+        "content": "If you have any questions about these terms or the chatbot service, please contact us through our official support channels."
+      }
+    },
+    "footer": {
+      "lastUpdated": "Last Updated: January 2026",
+      "copyright": "© 2026 Algeria Virtual Travel. All rights reserved."
+    }
+  },
+  "Chatbot": {
+    "initialMessage": "Welcome to Algeria Virtual Travel! I am your personal guide to discovering the wonders of Algeria. Whether you are dreaming of Saharan adventures, Mediterranean coastlines, ancient Roman ruins, or vibrant Casbah streets, I am here to help you plan an unforgettable journey. What would you like to explore today?",
+    "suggestions": {
+      "planTrip": "Plan your tailor-made trip",
+      "explore360": "Explore Algeria in 360°",
+      "touristCircuits": "Tourist circuits in Algeria",
+      "compareOffers": "Compare Offers & Pricing"
+    },
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "typing": "AVT Guide is typing...",
+    "error": "Sorry, I encountered an error. Please try again.",
+    "online": "Online",
+    "repliesInstantly": "Replies instantly",
+    "disclaimer": "AI can make mistakes. Please verify important travel information.",
+    "rateLimitReached": "You have reached the daily limit of 50 messages. Please try again tomorrow."
+  }
+}
